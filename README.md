@@ -4,7 +4,7 @@
 
 This audit report will help election commission to determine whether the votes were counted accurately candidate and county wise. Who won the election and which county has highest voter turnout? in contrary to that this report will also provide information regarding candidate and county wise vote, percentage of the votes.    
 
-### Election Audit Results
+### Election-Audit Results
 
 *	Total votes casted in this election is 369,711.
 
@@ -16,7 +16,7 @@ This audit report will help election commission to determine whether the votes w
 
 *	Diana DeGette won the election with 272,892 votes. She received 73.8% votes.     
 
-### Summary
+### Election-Audit Summary
 
 This script can be used for any election. As an example, this script can automatically determine number of candidates and county, we can also modify the script to compare between different districts and states and also publishing the result district and state wise. 
 Once we modify the script it will automatically determine number participants, county, district and sates. Total number of voters, percentage for all the category. In the end this script can be used for any election.             
