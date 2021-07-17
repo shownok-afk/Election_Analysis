@@ -7,6 +7,7 @@ This audit report will help election commission to determine whether the votes w
 •	Total votes casted in this election is 369,711.
 
 •	Voting was done in Jefferson, Denver and Arapahoe county. 38,855 votes were cast in Jefferson, which is 10.5% of the total vote cast. Similarly, 24,801 votes were cast in Arapahoe which is 6.7% and finally Denver is the county with highest voter turnout of 306,055, which is 82.8% of total votes.
+
 •	Largest county turnout is Denver.
 
 •	Total three candidates participated in the election. 1) Charles Casper Stockham, 2) Diana DeGette and 3) Raymon Anthony Doane. Charles Casper Stockham got 85,213 votes which   is 23.0% of total votes. Raymon Anthony Doane got 11,606 votes which is 3.1%. Diana DeGette got highest number of votes, which is 272,892 with 73.8% of total votes. 
